@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Trainers
+        psr4_prefix: Trainers
+        src_path: app
