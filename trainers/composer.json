@@ -16,7 +16,7 @@
 			"database"
 		],
 		"psr-4": {
-			"Trainers\\": "app/"
+			"App\\": "app/"
 		}
 	},
 	"autoload-dev": {
